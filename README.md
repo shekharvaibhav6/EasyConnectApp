@@ -18,7 +18,7 @@ Programming Language: Java
 Build Tool: Maven
 🎯 Architecture
 
-KafkaConnect leverages the following components:
+EasyConnectApp leverages the following components:
 
 Kafka Producer: Sends messages to a Kafka topic.
 Kafka Consumer: Listens for messages from a Kafka topic and processes them.
